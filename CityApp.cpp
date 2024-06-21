@@ -1,6 +1,6 @@
 /**
  * @file CityApp.cpp
- * @author Charles B. Owen
+ * @author Nandini Tengli
  */
 
 #include "pch.h"
